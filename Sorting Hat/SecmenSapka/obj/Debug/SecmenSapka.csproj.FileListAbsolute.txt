@@ -1,0 +1,14 @@
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\bin\Debug\SecmenSapka.exe.config
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\bin\Debug\SecmenSapka.exe
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\bin\Debug\SecmenSapka.pdb
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.csprojAssemblyReference.cache
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.Properties.Resources.resources
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.csproj.GenerateResource.cache
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.csproj.CoreCompileInputs.cache
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.csproj.CopyComplete
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.exe
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.pdb
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.MenuForm.resources
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.TestForm.resources
+C:\Users\Bunyamin\source\repos\SecmenSapka\SecmenSapka\obj\Debug\SecmenSapka.TrainForm.resources
